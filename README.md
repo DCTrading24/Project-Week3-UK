@@ -20,27 +20,32 @@ Introduction of a "demand" column to reflect actual power needs.
 Key Findings
 
 1. Development of the Generation Mix
+
 Coal phase-out is evident in recent years.
 Wind energy generation has increased significantly.
 Imports have risen to compensate for fluctuations in supply.
 Gas and wind are the dominant sources in the UK’s energy mix.
 
 2. Energy Demand Trends
+
 Peak demand occurs during morning and evening hours on weekdays.
 Monday ramp-up is slow, and Fridays see an earlier demand drop.
 Weekends have the lowest demand.
 
 3. Impact of Renewables
+
 Higher demand in winter increases reliance on traditional power sources.
 Net demand is defined as total demand minus wind and solar generation.
 Renewables significantly reduce the need for conventional power plants and imports.
 Lowest net demand occurs in October.
 
 4. Wind & Solar Energy Availability
+
 Weak positive correlation (+56%) on a daily basis.
 Strong negative correlation (-96%) on a monthly basis, meaning wind and solar tend to compensate for each other over longer periods.
 
 5. Statistical Insights on Wind and Solar Generation
+
 Wind Power
 
 Maximum generation: 22,510 MW
