@@ -1,4 +1,3 @@
-# Project-Week3-UK
 UK Power Generation Analysis
 
 Overview
